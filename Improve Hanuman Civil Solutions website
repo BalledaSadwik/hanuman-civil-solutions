@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hanuman Civil Solutions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f1f5f9;
+            color: #263445;
+        }
+        header {
+            background: #17365d;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        nav {
+            background: #102944;
+            padding: 15px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 12px;
+        }
+        main {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 25px;
+            background: white;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+        footer {
+            background: #17365d;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hanuman Civil Solutions</h1>
+        <p>Building Knowledge. Engineering the Future.</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Welcome to Hanuman Civil Solutions.
+            We share civil engineering knowledge, construction
+            practices, and engineering project information.</p>
+        </section>
+
+        <section id="services">
+            <h2>Our Areas</h2>
+            <ul>
+                <li>Building Construction</li>
+                <li>BIM and Revit</li>
+                <li>Quantity Surveying</li>
+                <li>Structural Engineering</li>
+                <li>Construction Documentation</li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Contact details can be added here.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Hanuman Civil Solutions</p>
+    </footer>
+</body>
+</html>
